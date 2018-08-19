@@ -11,6 +11,11 @@ class App extends Component {
             <SearchBar/>
           </div>
         </div>
+        <div className="row">
+          <div className="col-md-8 offset-md-2">
+            Placeholder for chart
+          </div>
+        </div>
       </div>
     );
   }
