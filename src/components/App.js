@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="container-fluid">
         <div className="row">
-          <div className="col-md-6 offset-md-3">
+          <div className="col-md-4 offset-md-4">
             <h1 className="text-center">Stock-Charts</h1> 
             <SearchBar/>
           </div>
